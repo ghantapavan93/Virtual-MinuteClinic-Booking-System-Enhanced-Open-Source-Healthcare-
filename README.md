@@ -103,18 +103,22 @@ Retail clinics thrive on **instant, reliable, and secure scheduling**. Getting a
 ---
 
 ## Architecture Overview
-<!-- PLACEHOLDER for diagram --> 
-`[ <img width="3840" height="1093" alt="Untitled diagram _ Mermaid Chart-2025-08-14-223036" src="https://github.com/user-attachments/assets/4dc1f54d-bdd3-4312-b3e7-ff5aeca60756" />]`
+<!-<img width="3840" height="1093" alt="Untitled diagram _ Mermaid Chart-2025-08-14-223036" src="https://github.com/user-attachments/assets/d1a0040f-27a2-4679-a31a-532fd9cc9039" />
+- PLACEHOLDER for diagram --> 
+
 ---
 
 ## Booking Workflow
 <!-- PLACEHOLDER for diagram -->
-`[ <img width="3840" height="1827" alt="Untitled diagram _ Mermaid Chart-2025-08-14-221406" src="https://github.com/user-attachments/assets/1101b862-7b5d-4051-bc52-336a089b3c0a" /> ]`
+<img width="3840" height="1827" alt="Untitled diagram _ Mermaid Chart-2025-08-14-221406" src="https://github.com/user-attachments/assets/28b41561-51d1-4eac-ab06-2d20cc9a9b57" />
+
 ---
 
 ## ETL / ELT Data Flow
 <!-- PLACEHOLDER for diagram -->
-`[ <img width="3840" height="300" alt="Untitled diagram _ Mermaid Chart-2025-08-14-223147" src="https://github.com/user-attachments/assets/a3fc73e6-3002-4cf4-8ffa-a4c7aa865351" />]`
+
+<img width="3840" height="300" alt="Untitled diagram _ Mermaid Chart-2025-08-14-223147" src="https://github.com/user-attachments/assets/44af6880-cd2a-4b05-9e32-3f4341659916" />
+
 ---
 
 ## UI & Ops Gallery
