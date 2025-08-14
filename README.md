@@ -104,23 +104,42 @@ Retail clinics thrive on **instant, reliable, and secure scheduling**. Getting a
 
 ## Architecture Overview
 <!-- PLACEHOLDER for diagram --> 
-`[file:///C:/Users/Pavan%20Kalyan/Downloads/Untitled%20diagram%20_%20Mermaid%20Chart-2025-08-14-214428.svg ]`
+`[ <img width="3840" height="1093" alt="Untitled diagram _ Mermaid Chart-2025-08-14-223036" src="https://github.com/user-attachments/assets/4dc1f54d-bdd3-4312-b3e7-ff5aeca60756" />]`
 ---
 
 ## Booking Workflow
 <!-- PLACEHOLDER for diagram -->
-`[ file:///C:/Users/Pavan%20Kalyan/Downloads/Untitled%20diagram%20_%20Mermaid%20Chart-2025-08-14-214524.svg ]`
+`[ <img width="3840" height="1827" alt="Untitled diagram _ Mermaid Chart-2025-08-14-221406" src="https://github.com/user-attachments/assets/1101b862-7b5d-4051-bc52-336a089b3c0a" /> ]`
 ---
 
 ## ETL / ELT Data Flow
 <!-- PLACEHOLDER for diagram -->
-`[
-file:///C:/Users/Pavan%20Kalyan/Downloads/Untitled%20diagram%20_%20Mermaid%20Chart-2025-08-14-221012.svg ]`
+`[ <img width="3840" height="300" alt="Untitled diagram _ Mermaid Chart-2025-08-14-223147" src="https://github.com/user-attachments/assets/a3fc73e6-3002-4cf4-8ffa-a4c7aa865351" />]`
 ---
 
 ## UI & Ops Gallery
 <!-- PLACEHOLDER for screenshots -->
 `[ Screenshots will be placed here ]`
+
+---
+### 🖥️ Patient & Provider Web UI
+| Patient Appointment Flow | Provider Slot Management |
+|--------------------------|--------------------------|
+| ![Patient Flow](docs/ui/patient-flow.png) | ![Provider Slots](docs/ui/provider-slots.png) |
+
+---
+
+### 📊 Operational Dashboards
+| Booking Metrics (Grafana) | Trace View (Jaeger) |
+|---------------------------|---------------------|
+| ![Metrics Dashboard](docs/ops/grafana-booking-metrics.png) | ![Trace View](docs/ops/jaeger-trace.png) |
+
+---
+
+### 📦 ETL & Data Quality
+| ETL Job Status (Airflow) | Data Validation Results |
+|--------------------------|-------------------------|
+| ![ETL Jobs](docs/ops/etl-jobs.png) | ![Data Validation](docs/ops/data-validation.png) |
 
 ---
 
